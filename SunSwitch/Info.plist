@@ -24,9 +24,11 @@
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2019 Jack Wiig. All rights reserved.</string>
-	<key>NSMainNibFile</key>
-	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSSystemAdministrationUsageDescription</key>
+	<string>SunSwitch needs access to &quot;System Events&quot; to switch themes.</string>
 </dict>
 </plist>

@@ -7,16 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0413609522437AFC00EFF3C5 /* AppearanceChanger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413609422437AFC00EFF3C5 /* AppearanceChanger.swift */; };
+		046B706B2247521E00A3AF74 /* AppleScripts in Resources */ = {isa = PBXBuildFile; fileRef = 046B706A2247521E00A3AF74 /* AppleScripts */; };
+		046B706D22475C2F00A3AF74 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046B706C22475C2F00A3AF74 /* main.swift */; };
 		047A3CE722424D6A00F06BE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A3CE622424D6A00F06BE9 /* AppDelegate.swift */; };
-		047A3CE922424D6A00F06BE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A3CE822424D6A00F06BE9 /* Assets.xcassets */; };
-		047A3CEC22424D6A00F06BE9 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 047A3CEA22424D6A00F06BE9 /* MainMenu.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0413609422437AFC00EFF3C5 /* AppearanceChanger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceChanger.swift; sourceTree = "<group>"; };
+		046B706A2247521E00A3AF74 /* AppleScripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AppleScripts; path = SunSwitch/AppleScripts; sourceTree = "<group>"; };
+		046B706C22475C2F00A3AF74 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = /Users/jack/Documents/Projects/Xcode/SunSwitch/SunSwitch/main.swift; sourceTree = "<absolute>"; };
 		047A3CE322424D6A00F06BE9 /* SunSwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunSwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		047A3CE622424D6A00F06BE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		047A3CE822424D6A00F06BE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		047A3CEB22424D6A00F06BE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		047A3CED22424D6A00F06BE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047A3CEE22424D6A00F06BE9 /* SunSwitch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SunSwitch.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -35,6 +37,7 @@
 		047A3CDA22424D6A00F06BE9 = {
 			isa = PBXGroup;
 			children = (
+				046B706A2247521E00A3AF74 /* AppleScripts */,
 				047A3CE522424D6A00F06BE9 /* SunSwitch */,
 				047A3CE422424D6A00F06BE9 /* Products */,
 			);
@@ -51,9 +54,9 @@
 		047A3CE522424D6A00F06BE9 /* SunSwitch */ = {
 			isa = PBXGroup;
 			children = (
+				046B706C22475C2F00A3AF74 /* main.swift */,
+				0413609422437AFC00EFF3C5 /* AppearanceChanger.swift */,
 				047A3CE622424D6A00F06BE9 /* AppDelegate.swift */,
-				047A3CE822424D6A00F06BE9 /* Assets.xcassets */,
-				047A3CEA22424D6A00F06BE9 /* MainMenu.xib */,
 				047A3CED22424D6A00F06BE9 /* Info.plist */,
 				047A3CEE22424D6A00F06BE9 /* SunSwitch.entitlements */,
 			);
@@ -118,8 +121,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				047A3CE922424D6A00F06BE9 /* Assets.xcassets in Resources */,
-				047A3CEC22424D6A00F06BE9 /* MainMenu.xib in Resources */,
+				046B706B2247521E00A3AF74 /* AppleScripts in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -131,21 +133,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				047A3CE722424D6A00F06BE9 /* AppDelegate.swift in Sources */,
+				0413609522437AFC00EFF3C5 /* AppearanceChanger.swift in Sources */,
+				046B706D22475C2F00A3AF74 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		047A3CEA22424D6A00F06BE9 /* MainMenu.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				047A3CEB22424D6A00F06BE9 /* Base */,
-			);
-			name = MainMenu.xib;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		047A3CEF22424D6A00F06BE9 /* Debug */ = {
@@ -266,7 +259,6 @@
 		047A3CF222424D6A00F06BE9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = SunSwitch/SunSwitch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -285,7 +277,6 @@
 		047A3CF322424D6A00F06BE9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = SunSwitch/SunSwitch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
