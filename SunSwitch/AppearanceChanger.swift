@@ -75,6 +75,8 @@ class AppearanceChanger {
                       target: self, selector: #selector(setMode(sender:)),
                       userInfo: path,
                       repeats: false)
+
+        RunLoop.main.add(timer, forMode: .common)
     }
 
     
