@@ -69,6 +69,8 @@ class AppearanceChanger {
         // If the next switch is sunrise, set the path to lightmode, but if next path is sunset, set to dark
         let path = nextAction.0 == "sunrise" ? lightPath : darkPath
         
+        timer.invalidate()
+        
         // Create the timer to fire the next action
         timer = Timer(fireAt: nextAction.1,
                       interval: 0,

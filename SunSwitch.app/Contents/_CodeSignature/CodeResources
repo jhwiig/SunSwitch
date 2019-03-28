@@ -19,7 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			FM0owYEvj+S+D/NNAaxEE9LiIO4=
+			e04z0vshSQpnBWrSor3bEoz7PdQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -28,7 +28,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zQ3sVMva/D687w/tOnAoZ/71x2k=
+			dAQ0C0AIytMZ/K2Rq5a/ydcUkIY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -37,7 +37,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RPLhfTzsQXVJ64hTFlR9XVAly4A=
+			QDfIDRxsxK1RlRii1lQynpuJ7q4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreData" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -46,7 +46,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5wr9A102b0IRJ87I6iX2VCkAa8k=
+			z3BCjTcBfKnxlmUbOjkY3+ifN0c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6vGxpfKsF6zoVvha/vqfp+Ix7Ko=
+			qvJ+a1cGQOLB4vQJC1K6c9GufFA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Re22BIJnjh0RRRi8PJOIGMfAd8c=
+			L1FCink02maKTiLCbXw+A21Kb/c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N3+gnPSWwHdE1xDLIhwE3+YtmSE=
+			Tn05NfC2eI5l18vTgZt4EpV9nDQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -82,7 +82,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			avJLv2CT15qU/rKO+MwRoIVdnKM=
+			kj/y5RDkelsqgYsOOKJU8b9R2wI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			InICb6uzvm34UHDSbb4xckzeID0=
+			5mIxbTZravTzL8XWUHxEWlxey7Y=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			i6fZn0cNz4PHpn/lUB9pGabUByA=
+			LSIstD7c45PkBuYqCwchgQX4GbE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LQU4ax6RvBnqqQ052HQfA+etSRw=
+			dfKywn8kQOHuOczkL54Vb+j/fOE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftMetal" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -118,7 +118,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			G1ijKqgoorDCQDfV+kkcC1egvx8=
+			xqJAYaos3tAZYEo9BXqdN2L86qg=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5Kt2ivpf+NBOX8gQl2PfZRA+NN0=
+			M5jMl4R9xjethjT26QaNVjT9kOs=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftQuartzCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -136,7 +136,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eL7PE4OuWjM1oDJTiZEnanvWwD8=
+			jxnJXE6RooI2sj2EcJUaUSMv6YE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftXPC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			7klu/a36GsAqBvzw7TrxbvuN+Po=
+			F5fYdXjxVI0VC4buv4btvlg8Vxs=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftos" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: jhwiig@gmail.com (XQBSZD6UNZ)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
